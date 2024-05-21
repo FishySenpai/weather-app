@@ -7,12 +7,6 @@ Simple weather app made with electron and 💖
 
 
 ## installation (windows)
-Download the latest release from [😎 here 😎](https://github.com/ekinakkaya/weather-app/releases).
-
-
-
-Or clone the repository and make the application yourself
-
 
 ### Windows (on powershell.exe)
 
